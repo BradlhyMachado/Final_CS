@@ -1,0 +1,4 @@
+# virtualenv
+venv/
+ENV/
+my_env/
